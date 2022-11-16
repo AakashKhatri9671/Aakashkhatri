@@ -50,7 +50,7 @@ const aakash = {
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashkhatri77&theme=onedark" alt="AakashKhatri9671" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKhatri9671&theme=onedark" alt="AakashKhatri9671" />
 </p>
 
 
