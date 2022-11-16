@@ -1,57 +1,72 @@
-# Aakashkhatri
-### hey there 
+### Hi there 👋
 
-<br />
-
-hi, i'm [Aakash Khatri], a passionate self-taught Backend Developer and a freelance software engineer from Nepal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/AakashKhatri9671/Aakashkhatri/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center"> -->
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+  <h1 align="center">Welcome to <a href="https://github.com/Aakashkhatri77">Aakash Khatri</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+competitive+programmer;I'm+a+Backend+developer" /></a>
+</p>
 
-**languages and tools:**  
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+I am a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+<ul>
+  <li>👋 Hi, I’m @MrAakash khatri</li>
+  <li>❤️ I love Creating websites and Programming in C#.</li>
+  <li>🌱 I’m currently learning Web Development, C#, SQL Server, OOP and ASP.NET, MVC</li>
+  <li>👯 I’m looking forward to collaborate on open source projects.</li>
+  <li>   Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
+  <li>🧐 Portfolio Website, https://aakashkhatri77.github.io/aakashkhatri.github.io/</li>
+</ul>
 
-```text
-TypeScript   5 hrs 25 mins   ██████████████████████▒░░   89.41 %
-JavaScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+#### A little more about me
+```javascript
+const aakash = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs", "Kotlin"],
+  askMeAbout: ["web dev", "frontend dev"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
+      backend: [C#, ".Net", "SQL Server"],
+  }
+}
 ```
 
-<!--END_SECTION:waka-->
+#### Trophies
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakashkhatri77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrAakashkhatri77"></a></p>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri9671&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AakashKhatri9671&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashkhatri77&theme=onedark" alt="AakashKhatri9671" />
+</p>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
+#### Contribution Graph
+[![Aakash khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=AakashKhatri9671&theme=react-dark)](https://github.com/AakashKhatri9671/github-readme-activity-graph)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AakashKhatri9671&show_icons=true&theme=gotham" alt="aakashkhatri" />
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg?username=AakashKhatri9671&theme=react-dark" alt="snake"></center>
+</p>
+
+
+
+
+
+
 
